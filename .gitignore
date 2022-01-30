@@ -4,4 +4,4 @@
 *.layout
 *.txt
 *.depend
-
+bin/
